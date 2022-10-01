@@ -32,3 +32,5 @@
  maid_murder_enemy_officers:0 "Sabotage the enemy's chain of command"
  maid_murder_enemy_officers_desc:0 "\"They will never expect the bombs tied beneath our skirts.\""
  unlock_operation_maid_assassin_officers_tt:0 "Unlocks Operation: §GSabotage Chain of Command§!\nWill be visible when the network is over 10%."
+ maid_decision_unlock_spy_operation:0 "Espionage of Maids"
+ maid_decision_unlock_spy_operation_desc:0 "\"They will never expect that the bombs are tied beneath our skirts.\""
