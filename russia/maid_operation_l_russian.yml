@@ -32,3 +32,5 @@
  maid_murder_enemy_officers:0 "Саботировать цепочку командования противника"
  maid_murder_enemy_officers_desc:0 "\"Они никогда не будут ожидать, что бомбы будут спрятаны у нас под юбками.\""
  unlock_operation_maid_assassin_officers_tt:0 "Разблокирована операция: §GСаботаж командных узлов§!\nБудет виден, когда сеть превысит 10%."
+ maid_decision_unlock_spy_operation:0 "Шпионаж горничных"
+ maid_decision_unlock_spy_operation_desc:0 "\"Они никогда не будут ожидать, что бомбы будут спрятаны у нас под юбками.\""
